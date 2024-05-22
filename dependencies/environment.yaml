@@ -1,11 +1,8 @@
 name: l2dVE
 channels:
   - conda-forge
-  - pytorch
 dependencies:
   - python
-  - pytorch
-  - torchvision
   - pip
   - pip:
     - numpy
@@ -13,6 +10,3 @@ dependencies:
     - notebook
     - jupyter
     - ipykernel # required for jupyter notebook in VS Code
-    - scikit-learn
-    - medmnist
-    - seaborn

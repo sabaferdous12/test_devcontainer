@@ -27,7 +27,8 @@
 			"extensions": [
 				// "ms-python.python",
 				// "donjayamanne.python-extension-pack",
-				// "ms-toolsai.jupyter",
+				   "ms-toolsai.jupyter",
+				   "ms-toolsai.vscode-jupyter-powertoys",
 				// "GitHub.codespaces",
 				// "ms-azuretools.vscode-docker",
 				// "UserName.vscode-markdownlint"
